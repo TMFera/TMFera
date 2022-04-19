@@ -80,7 +80,8 @@ int main(){
 	return 0;
 }
 //this may not be the proper way but it dose work preatty easily 
-//this code is made by R_TMF hope you like it
+//this code is made by TMFera hope you like it
 //this is the verion 1.5 of the code hope this help you in any way learning code or make you to become a programer yet hope this do something
 //oh and there is a easter egg try to find it it is easy
 //so we are going to make some upates today
+//so this is my first project i put on git hu hope you enjoy
